@@ -12,7 +12,7 @@ public class Movie  {
 	 }
 	 
 	 public Movie(String title, String releaseYear){
-		 this.title = title;
+	     this.title = title;
 	     this.releaseYear = releaseYear;
 	 }
  
