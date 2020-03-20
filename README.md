@@ -8,7 +8,7 @@ Installation/Set-Up:
 Open all java files from movieTitlesMain folder within a project. Replace path of files (scanner & output stream) with desired path of files. Run program.
 
 Dependencies:
-Java 8
+Java 8 &
 TSV file
 
 Output:
